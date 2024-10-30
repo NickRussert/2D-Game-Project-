@@ -1,0 +1,1 @@
+This is my first 2d Game. It is an infinite rock climbing game where you try to get as far as possible without falling off. It uses c# script for implementing game logic and uses the Unity game engine.
