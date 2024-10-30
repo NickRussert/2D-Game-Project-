@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0373c3156710a2748b098644ab73079e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - frontFacingSprite: {fileID: 21300000, guid: 402bb71437a92db4393b3fa51006fd14, type: 3}
+  - climberLeftHandUp: {fileID: 21300000, guid: 633c98c35e3e4d34ba1dfab83851f8e3, type: 3}
+  - climberRightHandUp: {fileID: 21300000, guid: 68c897f8b805a874abd798cb7df668d3, type: 3}
+  - scoreText: {instanceID: 0}
+  - correctMoveSound: {fileID: 8300000, guid: 38f2901d6beaa6c4182f8ffe27039ab4, type: 3}
+  - wrongMoveSound: {fileID: 8300000, guid: 62c189276e3ded942ae498cf61a0c04d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
